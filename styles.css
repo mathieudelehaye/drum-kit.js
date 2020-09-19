@@ -10,6 +10,12 @@ h1 {
   text-shadow: 3px 0 #DA0463;
 }
 
+h2 {
+  font-family: "Arvo";
+  font-size: 2rem;
+  color: white;
+}
+
 footer {
   color: #DBEDF3;
   font-family: sans-serif;
@@ -44,7 +50,7 @@ footer {
 }
 
 .set {
-  margin: 10% auto;
+  margin: 5% auto 10%;
 }
 
 .game-over {
